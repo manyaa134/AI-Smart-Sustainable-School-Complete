@@ -1,0 +1,2 @@
+# Class 12 alignment
+This is an advanced but explainable school-level project. Confirm subject-specific formatting, report length, certificate wording and Orange evidence requirements with your teacher. Be prepared to explain regression, features/targets, chronological splits, metrics, synthetic data, Orange/Python differences and rule-based recommendations. Never invent results, screenshots, approval or savings.
